@@ -1,4 +1,4 @@
-# Task Manager
+# JWT_BASICS
 
 <a name="readme-top"></a>
 
@@ -6,7 +6,7 @@
   <img src="./public/my logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>TASK MANAGER APP</b></h3>
+  <h3><b>RANDOM APP</b></h3>
 
 </div>
 
@@ -74,7 +74,7 @@
 
 <!-- Features -->
 
-### Key Features <a name="key-features"></a>
+<!-- ### Key Features <a name="key-features"></a>
 
 - **[Display Task]**
 - **[CRUD Functionalities]**
@@ -82,7 +82,7 @@
 - **[Front end]**
 - **[Backend ]**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- GETTING STARTED -->
 
@@ -103,7 +103,9 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 - cd my-folder
-- git clone https://github.com/unorjikingsley/Node-express---TaskManager-Backend.git
+- git clone https://github.com/unorjikingsley/JWT_Login.git
+
+
 ### Install
 
 Install this project with:
@@ -125,12 +127,12 @@ Install this project with:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- FUTURE FEATURES -->
 
-## 🔭 Future Features <a name="future-features"></a>
+<!-- ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[Authentication and authorization]**
 - [ ] **[React Front end ]**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- CONTRIBUTING -->
 
